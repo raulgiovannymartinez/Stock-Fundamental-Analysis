@@ -1,0 +1,9 @@
+Parse fundamental analysis key metrics
+https://medium.com/fintechexplained/automating-stock-investing-fundamental-analysis-with-python-f854781ee0b4
+
+OBV value
+https://handsoffinvesting.com/automating-your-stock-analysis-with-python/
+
+Valuation sites:
+https://www.gurufocus.com/new_index/
+
